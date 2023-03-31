@@ -1,5 +1,11 @@
 # Route Planning Project
 
+• Developed a C++ program as part of nanodegree to create a route planner that plots a path between two points on a map <br>
+• Achieved finding cost effective path using A* search algorithm.<br>
+• OpenStreetMap project data was used to simulate the result.<br>
+• Build system is CMake files.
+
+
 This repo contains the starter code for the Route Planning project.
 
 <img src="map.png" width="600" height="450" />
