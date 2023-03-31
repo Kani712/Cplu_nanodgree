@@ -2,7 +2,7 @@
 
 This repo contains the starter code for the Route Planning project.
 
-![Screenshot 2023-03-30 180005](https://user-images.githubusercontent.com/70613002/228996741-76010366-7483-449f-b4e0-51b199d94890.png)
+<img src="map.png" width="600" height="450" />
 
 ## Cloning
 
